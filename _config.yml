@@ -1,6 +1,6 @@
 # Site title and subtitle. This is used in _includes/header.html
 title: 'askPio_Documentation'
-subtitle: 'Painless documentation for your projects'
+subtitle: 'Documentation of askPio'
 
 # if you wish to integrate disqus on pages set your shortname here
 disqus_shortname: ''
@@ -19,11 +19,11 @@ codeurl: 'https://harshgupta71.github.io/askPio_Documentation'
 
 # Default categories (in order) to appear in the navigation
 sections: [
-    ['doc', 'Documentation'],
-    ['tut', 'Tutorial'],
+    ['start', 'Getting Started'],
+    ['guide', 'User Guide'],
     ['ref', 'Reference'],
-    ['dev', 'Developers'],
-    ['post', 'Posts']
+    ['tut', 'Tutorials'],
+    ['help', 'Help']
 ]
 
 # Keep as an empty string if served up at the root. If served up at a specific
@@ -34,7 +34,7 @@ baseurl: '/askPio_Documentation'
 permalink: none
 
 # Syntax highlighting
-highlighter: rouge
+highlighter: pygments
 
 # Since these are pages, it doesn't really matter
 future: true
