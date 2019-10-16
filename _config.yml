@@ -1,6 +1,12 @@
 # Site title and subtitle. This is used in _includes/header.html
-title: 'askPio_Documentation'
+name: "askPio"
+description: "askPio, Bot, AI, LUIS"
+meta_description: "askPio blog"
+title: 'askPio'
 subtitle: 'Documentation of askPio'
+mainurl: 'https://askpio.com'
+appmainurl: 'https://app.askpio.com'
+mailchimp-list: 'https://subwai.us20.list-manage.com/subscribe/post?u=e01c7eea6ace40984a93be00d&amp;id=98ff40b631'
 
 # if you wish to integrate disqus on pages set your shortname here
 disqus_shortname: 'https-blog-subwai-com'
