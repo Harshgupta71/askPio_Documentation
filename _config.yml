@@ -3,10 +3,10 @@ title: 'askPio_Documentation'
 subtitle: 'Documentation of askPio'
 
 # if you wish to integrate disqus on pages set your shortname here
-disqus_shortname: ''
+disqus_shortname: 'https-blog-subwai-com'
 
 # if you use google analytics, add your tracking id here
-google_analytics_id: ''
+google_analytics_id: 'UA-132318762-1'
 
 # Enable/show navigation. There are there options:
 #   0 - always hide
