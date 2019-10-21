@@ -1,7 +1,7 @@
 # Site title and subtitle. This is used in _includes/header.html
 name: "askPio"
 description: "askPio, Bot, AI, LUIS"
-meta_description: "askPio blog"
+meta_description: "askPio documentation"
 title: 'askPio'
 subtitle: 'Documentation of askPio'
 mainurl: 'https://askpio.com'
