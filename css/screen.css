@@ -2,14 +2,7 @@
  .mainheading {
      padding:1rem 0rem;
 }
- a {
-     color:#00ab6b;
-     transition:all 0.2s;
-}
- a:hover {
-     color: #038252;
-     text-decoration:none;
-}
+
  pre {
      -moz-box-sizing: border-box;
      box-sizing: border-box;
@@ -26,7 +19,6 @@
 }
  .mediumnavigation {
      background:rgba(255,255,255,.97);
-     box-shadow:0 2px 2px -2px rgba(0,0,0,.15);
      transition: top 0.2s ease-in-out;
 }
  .main-content {
