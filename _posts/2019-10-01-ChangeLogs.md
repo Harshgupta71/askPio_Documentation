@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Change Logs"
-category: clogs
+category: changelogs
 date: 2019-10-01 00:00:01
 order: 1
 ---
