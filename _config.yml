@@ -30,7 +30,7 @@ sections: [
     ['start', 'Getting Started'],
     ['guide', 'User Guide'],
     ['ref', 'Reference'],
-    ['clogs', 'Change Logs'],
+    ['changelogs', 'Change Logs'],
     ['tut', 'Tutorials'],
     ['help', 'Help']
 ]
