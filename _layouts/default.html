@@ -49,16 +49,9 @@
         
         <!-- end Mixpanel -->
         
-        mixpanel.people.set({
-           "$email": "info.askpio@gmail.com",   
-    
-           "$created": new Date(),
-                "$last_login": new Date(),       
-    
-               "credits": 150,                  
-    
-             "gender": "Male"                    
-            });
+        mixpanel.track_links("#navigation a", "click nav link", {
+        "referrer": document.referrer
+    });
          </script>
     </head>
     <body>
