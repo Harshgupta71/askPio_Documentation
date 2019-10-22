@@ -10,4 +10,4 @@ order: 1
 **Note:** Major features are only being developed for ASP.NET Core +
 jQuery and ASP.NET Core + Angular versions beginning from v4.1. See
 
-If you're using something like [JSON Schema](http://json-schema.org/), [RAML - RESTful API modeling language](http://raml.org/), or something similar, automating documentation gets pretty interesting.
+The change logs in this page are just a summary of major changes. 
