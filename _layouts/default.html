@@ -54,12 +54,15 @@
         "referrer": document.referrer
     });
             
-            mixpanel.register({
-                "email":"harsh@vineforce.com",
-              "age": 28,
-               "gender": "male",
-             "source": "facebook"
-               });
+           mixpanel.identify("12148");
+            mixpanel.people.set({
+            "$email": "harsh@vineforce.com",    
+            "$created": new Date(),
+            "$last_login": new Date(),         
+            "credits": 150,                    
+            "gender": "Male"                    
+            });
+            
          </script>
     </head>
     <body>
