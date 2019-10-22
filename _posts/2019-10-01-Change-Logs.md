@@ -7,7 +7,4 @@ order: 1
 ---
 
  
-**Note:** Major features are only being developed for ASP.NET Core +
-jQuery and ASP.NET Core + Angular versions beginning from v4.1. See
-
-The change logs in this page are just a summary of major changes. 
+The change logs in this page are just a summary of major changes. For detail release notes click on header of the version. 
