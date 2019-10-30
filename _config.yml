@@ -31,7 +31,7 @@ sections: [
     ['guide', 'User Guide'],
     ['ref', 'Reference'],
     ['cl', 'Change Logs'],
-    ['tut', 'Tutorials'],
+    ['rm', 'Road Map'],
     ['help', 'Help']
 ]
 
