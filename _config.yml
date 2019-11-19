@@ -29,6 +29,7 @@ codeurl: 'https://harshgupta71.github.io/askPio_help'
 sections: [
     ['start', 'Getting Started'],
     ['admin', 'Adminstration'],
+    ['appdetail', 'Application Details'],
     ['to', 'Time Off'],
     ['cl', 'Change Logs'],
     ['rm', 'Road Map'],
