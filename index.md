@@ -17,4 +17,4 @@ See the [change logs](cl/Change-Logs) to learn the features released with the pr
 
 ### Road Map
 
-See the [road map](rm/Road-Map.md) for some planned features for next releases.
+See the [road map](rm/Road-Map) for some planned features for next releases.
