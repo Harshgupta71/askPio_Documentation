@@ -13,8 +13,8 @@ ruby bin/jekyll-page "Some Page Title" ref
 
 ### Change Logs
 
-See the [change logs](cl/Change-Logs.html) to learn the features released with the previous versions.
+See the [change logs](cl/Change-Logs) to learn the features released with the previous versions.
 
 ### Road Map
 
-See the [road map](rm/Road-Map.html) for some planned features for next releases.
+See the [road map](rm/Road-Map.md) for some planned features for next releases.
