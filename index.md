@@ -10,3 +10,11 @@ Start by [creating a new post](http://jekyllrb.com/docs/posts/) one of the categ
 ```bash
 ruby bin/jekyll-page "Some Page Title" ref
 ```
+
+### Change Logs
+
+See the [change logs](Change-Logs.md) to learn the features released with the previous versions.
+
+### Road Map
+
+See the [road map](Road-Map.md) for some planned features for next releases.
